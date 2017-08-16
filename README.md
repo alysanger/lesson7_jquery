@@ -13,8 +13,7 @@ Aly Sanger-Hodgson
 Creating an app for recipes.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://alysanger.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. The use of .js files and how they impact your application.
