@@ -4,20 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-July 24, 2017
+July 25, 2017
 
 ### Student Name:  
 Aly Sanger-Hodgson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Creating an app for recipes.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The use of .js files and how they impact your application.
+2. Using JQuery to enhance an online application.
+3. Using DOM to build applications.
 
